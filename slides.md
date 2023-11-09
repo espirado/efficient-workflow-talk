@@ -135,20 +135,6 @@ Reproducibility in computational workflows is critical for ensuring that results
 ---
 
 
-# Demo session 
-  In this session we are going to demostrate how we can implement some of the best practices in running and building workflow pipelines.
-  <v-clicks>
-     
-     - Using slurm with Targets
-
-     - Using nextfllow pipeline for genomic
-
-     - Achieving parallelism in distributed system in workflow
-
-     - Running the pipelines on hybrid environment(both local and cloud)
-</v-clicks>
----
-
 # Overall objective
 
 <v-clicks>
@@ -161,6 +147,22 @@ Reproducibility in computational workflows is critical for ensuring that results
 
 * Run anywhere 
 
+
+</v-clicks>
+---
+
+
+# Demo session 
+  In this session we are going to demostrate how we can implement some of the best practices in running and building workflow pipelines.
+  <v-clicks>
+     
+     - Using slurm with Targets
+
+     - Using nextfllow pipeline for genomic
+
+     - Achieving parallelism in distributed system in workflow
+
+     - Running the pipelines on hybrid environment(both local and cloud)
 
 
 Sample Implementation pipeline
