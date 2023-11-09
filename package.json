@@ -1,7 +1,30 @@
 {
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
   "dependencies": {
     "@slidev/cli": "^0.43.15",
     "@slidev/theme-default": "^0.21.2",
     "@slidev/theme-seriph": "^0.21.3"
-  }
+},
+"name": "efficient-workflow-talk",
+"description": "<!--  Happy to share how  efficient workflow pipelines can help accelerate your analysis  -->",
+"version": "1.0.0",
+"main": "index.js",
+"devDependencies": {
+  "playwright": "^1.21.1"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/espirado/efficient-workflow-talk.git"
+},
+"author": "espirado",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/espirado/efficient-workflow-talk/issues"
+},
+"homepage": "https://github.com/espirado/efficient-workflow-talk#readme"
 }
